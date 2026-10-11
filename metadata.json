@@ -1,0 +1,6 @@
+{
+  "name": "AADITEX FABRICS - Premium Denim Manufacturing & Knowledge Catalogue",
+  "description": "International denim fabric manufacturer, technical fabric specifications, searchable denim product database, and global export catalogue from Gujarat to worldwide markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
